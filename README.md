@@ -30,16 +30,24 @@
 
 ---
 **Follow me**
+
 微博：[@青丰与名月][4]
+
 知乎：[http://www.zhihu.com/people/helloqingfeng][5]
+
 Github：[https://github.com/helloqingfeng][6]
+
 V2ex：[http://www.v2ex.com/?r=helloqingfeng][7]
 
+
 **Mail to me**
-邮件：[helloqingfeng@qq.com][8]
+
+Email：[helloqingfeng@qq.com][8]
 
 **业余自媒体**
+
 公众号：[韩娱明星][1]（hanyumingxing）
+
 头条号：[http://www.toutiao.com/m6214044258](http://www.toutiao.com/m6214044258)
 
 ---
